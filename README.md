@@ -36,9 +36,9 @@ This app was built with :
 ![figma](https://user-images.githubusercontent.com/50771883/97802339-5d7a9c80-1c75-11eb-991a-39f97542cfb0.jpg)
 
 # Desktop
+![welcome](https://user-images.githubusercontent.com/50771883/97802362-6bc8b880-1c75-11eb-9ed8-9415e2cf3994.jpg)
 ![regis](https://user-images.githubusercontent.com/50771883/97802358-69665e80-1c75-11eb-8708-ff37da06b00a.jpg)
 ![Screenshot_4](https://user-images.githubusercontent.com/50771883/97802359-69fef500-1c75-11eb-814a-287e2ed3d007.jpg)
-![welcome](https://user-images.githubusercontent.com/50771883/97802362-6bc8b880-1c75-11eb-9ed8-9415e2cf3994.jpg)
 ![buying_ds](https://user-images.githubusercontent.com/50771883/97802342-623f5080-1c75-11eb-89c8-d7093ba2ac8c.jpg)
 ![checkout_ds](https://user-images.githubusercontent.com/50771883/97802343-62d7e700-1c75-11eb-8d56-576a1beef576.jpg)
 ![collapse_button](https://user-images.githubusercontent.com/50771883/97802344-64091400-1c75-11eb-9ffd-ddf4fa39a24a.jpg)
