@@ -1,13 +1,12 @@
 # Point-Of-Sales-Front-end
 
-This is the front-end made with Vue.js, connected to the Back-End that I created in the repository
-following https://github.com/Mrikoarafi/Point-Of-Sales-BackEnd, here is available sign up, forgot password, CRUD (Create, Read, Update, Delete) Search, Pagination, Single Page Application, Responsive and others , you can try it at the following link >> http://107.21.37.83:2020/login
+Hi, this is one of the projects made during bootcamp at Arkademy.
 
 # Backend POS
-https://github.com/Mrikoarafi/Point-Of-Sales-BackEnd/blob/main/README.md
+https://github.com/Mrikoarafi/Point-Of-Sales-Back-End
 
 # Demo Project
-http://107.21.37.83:2020/login
+http://3.89.119.22/login
 
 # Development
 This app was built with :
