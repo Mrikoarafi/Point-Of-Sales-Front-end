@@ -51,14 +51,4 @@ This is the design that is given
 ![welcome_home](https://user-images.githubusercontent.com/50771883/97802364-6c614f00-1c75-11eb-89c9-54c0428e84a0.jpg)
 
 # Responsive
-![3 89 119 22_2020_home(iPhone 6_7_8) (9)](https://user-images.githubusercontent.com/50771883/98055366-e52bfb00-1e6f-11eb-870a-222d33e5259e.png)
-![3 89 119 22_2020_login(iPhone 6_7_8)](https://user-images.githubusercontent.com/50771883/98055370-e826eb80-1e6f-11eb-88f6-cefc3b0b4bdd.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/50771883/98055379-eceb9f80-1e6f-11eb-8e49-fc89f14d9244.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (2)](https://user-images.githubusercontent.com/50771883/98055383-efe69000-1e6f-11eb-81fb-27f78f7a5c6b.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (3)](https://user-images.githubusercontent.com/50771883/98055386-f117bd00-1e6f-11eb-8214-bc17f060377f.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (4)](https://user-images.githubusercontent.com/50771883/98055395-f37a1700-1e6f-11eb-90af-99f5b48cab43.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (5)](https://user-images.githubusercontent.com/50771883/98055398-f4ab4400-1e6f-11eb-9082-e7ec6725a8ba.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (6)](https://user-images.githubusercontent.com/50771883/98055402-f5dc7100-1e6f-11eb-8582-1c4b6c0397a1.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (7)](https://user-images.githubusercontent.com/50771883/98055403-f70d9e00-1e6f-11eb-8345-4459eab3ab55.png)
-![3 89 119 22_2020_home(iPhone 6_7_8) (8)](https://user-images.githubusercontent.com/50771883/98055404-f7a63480-1e6f-11eb-85a2-271926254aba.png)
-![3 89 119 22_2020_home(iPhone 6_7_8)](https://user-images.githubusercontent.com/50771883/98055409-f96ff800-1e6f-11eb-910c-3fd7b7bdfc0d.png)
+
