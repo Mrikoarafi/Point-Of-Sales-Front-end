@@ -1,12 +1,12 @@
 # Point-Of-Sales-Front-end
 
-Hi, this is one of the projects made during bootcamp at Arkademy,You can try in this link >> http://3.89.119.22/login
+Hi, this is one of the projects made during bootcamp at Arkademy,You can try in this link >> http://3.89.119.22:2020/login
 
 # Backend POS
 https://github.com/Mrikoarafi/Point-Of-Sales-Back-End
 
 # Demo Project
-http://3.89.119.22/login
+http://3.89.119.22:2020/login
 
 # Development
 This app was built with :
